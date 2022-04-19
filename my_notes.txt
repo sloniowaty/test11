@@ -1,4 +1,8 @@
 that's some text
+<<<<<<< HEAD
 line number two
 line number three
 line number four
+=======
+
+>>>>>>> parent of 3046bc6 (added two lines of text vers.1.1)
